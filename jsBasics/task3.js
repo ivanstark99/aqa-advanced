@@ -1,5 +1,6 @@
 let name = 'Ivan'
-let age = 25
-let userAge = (age == 30)
+let userAge = 25
+let isAdult = userAge >= 18
 
 console.log(userAge)
+console.log(isAdult)
