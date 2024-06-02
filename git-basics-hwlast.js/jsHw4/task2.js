@@ -17,6 +17,6 @@ switch (true) {
         console.log('Відмінно');
         break;
     default:
-        console.log('Некоректна оцінка');
+        console.log('Оцінка відсутня');
         break;
 }
